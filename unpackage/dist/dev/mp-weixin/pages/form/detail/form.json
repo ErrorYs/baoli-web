@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "万能表单",
+  "usingComponents": {
+    "area-picker": "/components/area-picker/areaPicker",
+    "lvv-popup": "/components/lvv-popup/lvv-popup"
+  }
+}

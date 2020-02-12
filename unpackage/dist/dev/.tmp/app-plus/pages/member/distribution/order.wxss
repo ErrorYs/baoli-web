@@ -1,0 +1,25 @@
+
+.type-c .cell-group.data-v-64b8c9e6{
+	padding: 10rpx 0;
+	margin-top: 0;
+}
+.type-c .cell-item.data-v-64b8c9e6{
+	border: none;
+	min-height: 70rpx;
+	padding: 0 26rpx 0 0;
+}
+.type-c .cell-item .red-price.data-v-64b8c9e6{
+	font-size: 50rpx;
+}
+.type-c .cell-item .color-9.data-v-64b8c9e6{
+	font-size: 24rpx;
+}
+.order-none.data-v-64b8c9e6{
+	text-align: center;
+	padding: 200rpx 0;
+}
+.balance-none-img.data-v-64b8c9e6{
+	width: 274rpx;
+	height: 274rpx;
+}
+

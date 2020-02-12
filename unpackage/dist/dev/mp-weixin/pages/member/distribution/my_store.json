@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的店铺",
+  "usingComponents": {
+    "lvv-popup": "/components/lvv-popup/lvv-popup",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

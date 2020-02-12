@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "支付",
+  "usingComponents": {
+    "payments-by-app": "/components/payments/paymentsByApp"
+  }
+}

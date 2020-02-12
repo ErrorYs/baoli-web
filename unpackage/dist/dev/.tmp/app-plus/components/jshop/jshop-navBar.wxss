@@ -1,0 +1,44 @@
+
+.imgnavbar {
+	width: 100%;
+	background-color: #fff;
+}
+.imgnavbar-list {
+	overflow: hidden;
+	padding: 24rpx 0 0;
+}
+
+/* 堆积两列 */
+.imgnavbar-list .imgnavbar-item {
+	height: auto;
+	float: left;
+	padding: 0rpx 10rpx;
+	margin-bottom: 20rpx;
+	text-align: center;
+}
+.imgnavbar-list .imgnavbar-item image {
+	width: 90rpx;
+	height: 90rpx;
+	margin-bottom: 6rpx;
+}
+.imgnavbar-item-text {
+	font-size: 26rpx;
+	color: #666;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.imgnavbar-list.row3 .imgnavbar-item {
+	width: 33.3%;
+}
+.imgnavbar-list.row4 .imgnavbar-item {
+	width: 25%;
+}
+.imgnavbar-list.row5 .imgnavbar-item {
+	width: 20%;
+}
+.imgnavbar-list.row5 .imgnavbar-item .imgnavbar-item-text {
+	font-size: 24rpx;
+}
+

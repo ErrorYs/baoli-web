@@ -1,0 +1,48 @@
+
+.content{
+	background-color: #fff;
+	height: calc(100vh - 44px);
+}
+.dist-head{
+	padding: 50rpx 26rpx 20rpx;
+	text-align: center;
+	background: -webkit-linear-gradient( #FF7159, #ff9785);
+	background: linear-gradient( #FF7159, #ff9785);
+}
+.dist-head-top{
+	padding: 0rpx 50rpx 30rpx;
+}
+.dht-margin{
+	margin-bottom: 26rpx;
+}
+.dht-margin.color-d{
+	padding: 0 40rpx;
+}
+.dht-mid{
+	margin-bottom: 12rpx;
+}
+.dist-head-tip{
+	text-align: left;
+}
+.dist-body{
+	padding: 26rpx;
+}
+.db-title{
+	border-bottom: 2rpx solid #ccc;
+	padding-bottom: 26rpx;
+}
+.db-body{
+	padding: 26rpx 10rpx;
+}
+.db-item{
+	/* padding: ; */
+	margin-bottom: 14rpx;
+}
+._pre {
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+} 
+

@@ -1,0 +1,59 @@
+
+.payment-method .cell-item-hd {
+	min-width: 70rpx;
+}
+.payment-method .cell-hd-icon {
+	width: 70rpx;
+	height: 70rpx;
+}
+.payment-method .cell-item-bd {
+	border-left: 2rpx solid #F0F0F0;
+	padding-left: 30rpx;
+}
+.payment-method .cell-bd-text {
+	font-size: 28rpx;
+	color: #666;
+}
+.payment-method .address {
+	font-size: 24rpx;
+	color: #999;
+}
+.payment-pop {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	width: 400rpx;
+	height: 272rpx;
+	background-color: #fff;
+	text-align: center;
+	box-shadow: 0 0 20rpx #ccc;
+	/* border-radius: 10rpx; */
+}
+.payment-pop-c {
+	padding: 50rpx 30rpx;
+	/* line-height: 300rpx; */
+	font-size: 32rpx;
+	color: #999;
+}
+.payment-pop-b {
+	position: absolute;
+	bottom: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	width: 100%;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.payment-pop-b .btn {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+}
+.payment-pop .text {
+	font-size: 24rpx;
+}
+

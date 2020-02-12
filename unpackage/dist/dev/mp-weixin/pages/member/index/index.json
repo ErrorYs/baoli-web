@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "jihai-copyright": "/components/jihai-copyright/jihaiCopyright"
+  }
+}

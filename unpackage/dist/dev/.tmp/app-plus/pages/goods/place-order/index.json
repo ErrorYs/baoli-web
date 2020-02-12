@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "提交订单",
+  "usingComponents": {
+    "lvv-popup": "/components/lvv-popup/lvv-popup",
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control"
+  }
+}

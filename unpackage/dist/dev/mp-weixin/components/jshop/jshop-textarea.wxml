@@ -1,0 +1,1 @@
+<view class="textarea bottom-cell-group"><block wx:if="{{jdata.params}}"><jshop-content vue-id="1" content="{{jdata.params}}" bind:__l="__l"></jshop-content></block></view>

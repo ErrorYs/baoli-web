@@ -1,0 +1,21 @@
+{
+  "component": true,
+  "usingComponents": {
+    "jshopimg-slide": "/components/jshop/jshop-imgSlide",
+    "jshopsearch": "/components/jshop/jshop-search",
+    "jshopnotice": "/components/jshop/jshop-notice",
+    "jshopcoupon": "/components/jshop/jshop-coupon",
+    "jshopblank": "/components/jshop/jshop-blank",
+    "jshoptextarea": "/components/jshop/jshop-textarea",
+    "jshopvideo": "/components/jshop/jshop-video",
+    "jshopimg-window": "/components/jshop/jshop-imgWindow",
+    "jshopimg-single": "/components/jshop/jshop-imgSingle",
+    "jshopgoods": "/components/jshop/jshop-goods",
+    "jshoparticle": "/components/jshop/jshop-article",
+    "jshoparticle-classify": "/components/jshop/jshop-articleClassify",
+    "jshopnav-bar": "/components/jshop/jshop-navBar",
+    "jshopgroup-purchase": "/components/jshop/jshop-groupPurchase",
+    "jshoprecord": "/components/jshop/jshop-record",
+    "jshoppintuan": "/components/jshop/jshop-pintuan"
+  }
+}

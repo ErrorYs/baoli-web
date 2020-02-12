@@ -1,0 +1,28 @@
+
+.img-list, .img-grids {
+	background-color: #fff;
+}
+.cell-item{
+	border: none;
+}
+.group-buying .img-list-item{
+	min-height: 236rpx;
+	padding: 20rpx;
+	margin-left: 26rpx;
+	margin-bottom: 26rpx;
+	display: inline-table;
+	background-color: #f9f9f9;
+}
+.swiper-grids .img-list-item:last-child{
+	margin-right: 26rpx;
+}
+/* .group-buying .goods-name{
+	min-height: 74upx;
+} */
+.group-buying .group-title{
+	width: 100%;
+	overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+

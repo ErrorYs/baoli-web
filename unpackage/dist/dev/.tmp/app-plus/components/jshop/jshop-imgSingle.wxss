@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* .ad {
+	width: 100%;
+	overflow: hidden;
+}
+.ad-img{
+	width: 100%;
+	float: left;
+	margin-bottom: 20upx;
+}
+.ad-img:last-child{
+	margin-bottom: 0;
+} */
+.jshop-imgsingle.ad {
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+}
+.jshop-imgsingle .ad-img {
+		width: 100%;
+		float: left;
+		position: relative;
+		z-index: 667;
+		/* margin-bottom: 20upx; */
+}
+.jshop-imgsingle .ad-img:last-child {
+		margin-bottom: 0;
+}
+.jshop-imgsingle .imgup-btn {
+		position: absolute;
+		z-index: 668;
+		bottom: 80rpx;
+		left: 40rpx;
+}
+.jshop-imgsingle .imgup-btn .btn {
+		line-height: 2;
+		font-size: 28rpx;
+		padding: 0 50rpx;
+}
+

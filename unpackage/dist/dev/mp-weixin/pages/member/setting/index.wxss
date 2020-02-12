@@ -1,0 +1,12 @@
+
+.agreement{
+	position: fixed;
+	bottom: 30rpx;
+	width: 100%;
+	margin: 20rpx 0;
+	text-align: center;
+}
+.color-o{
+	margin: 0 10rpx;
+}
+

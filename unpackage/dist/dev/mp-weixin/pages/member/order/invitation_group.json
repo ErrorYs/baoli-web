@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "邀请拼单",
+  "usingComponents": {
+    "lvv-popup": "/components/lvv-popup/lvv-popup",
+    "uni-countdown": "/components/uni-countdown/uni-countdown",
+    "share": "/components/share/share",
+    "share-by-wx": "/components/share/shareByWx"
+  }
+}

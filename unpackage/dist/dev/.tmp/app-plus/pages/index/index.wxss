@@ -1,0 +1,40 @@
+
+.search {
+	/* position: fixed; */
+	
+	
+	/* top: 0; */
+	
+}
+.cell-item {
+	border: none;
+}
+.cell-ft-text {
+	font-size: 22rpx;
+	color: #999;
+}
+.service{
+	width: 80rpx;
+	height: 80rpx;
+	background-color: #fff;
+	border-radius: 50%;
+	position: fixed;
+	right: 30rpx;
+	bottom: 120rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	box-shadow: 0 0 10rpx #ccc;
+	padding: 0;
+}
+.service .icon{
+	width: 60rpx;
+	height: 60rpx;
+}
+

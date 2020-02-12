@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"agreement{ position: fixed; bottom: ",[0,30],"; width: 100%; margin: ",[0,20]," 0; text-align: center; }\n.",[1],"color-o{ margin: 0 ",[0,10],"; }\n",],undefined,{path:"./pages/member/setting/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/member/setting/index.wxml') } }));

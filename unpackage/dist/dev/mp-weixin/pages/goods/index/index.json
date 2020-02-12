@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control",
+    "lvv-popup": "/components/lvv-popup/lvv-popup",
+    "uni-number-box": "/components/uni-number-box/uni-number-box",
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "spec": "/components/spec/spec",
+    "jshop-content": "/components/jshop/jshop-content",
+    "share-by-wx": "/components/share/shareByWx"
+  }
+}

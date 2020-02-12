@@ -1,0 +1,102 @@
+
+.cell-title-img {
+	width: 160rpx;
+	height: 160rpx;
+}
+.cell-title-img image {
+	width: 100%;
+	height: 100%;
+}
+.cell-item-bd {
+	padding-right: 0;
+	vertical-align: top;
+	position: relative;
+}
+.article-title {
+	font-size: 28rpx;
+	color: #333;
+	width: 100%;
+	min-height: 80rpx;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+}
+.article-time {
+	font-size: 24rpx;
+	color: #999;
+	display: inline-block;
+	min-width: 220rpx;
+	min-height: 32rpx;
+	position: absolute;
+	bottom: 0;
+}
+.flc {
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	padding: 10rpx 20rpx;
+	border-bottom: 2rpx solid #f0f0f0;
+}
+.buttonStyle {
+	margin: 0 15rpx 10rpx 0;
+	padding: 6rpx 20rpx;
+	border: 1rpx solid #ccc;
+	font-size: 24rpx;
+	border-radius: 10rpx;
+}
+.list {
+	margin: 44px 0 20rpx 0;
+}
+.navigationBar {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 44px;
+	padding: 7px 3px;
+	text-align: center;
+	/* line-height: 44px; */
+	z-index: 998;
+	color: #000;
+	background-color: #fff;
+	/* position: relative; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.headerTitle {
+	display: inline-block;
+	font-weight: 700;
+	font-size: 16px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	line-height: 30px;
+	width: 100%;
+}
+.navigationIcon {
+	display: inline-block;
+	/* float: left; */
+	/* margin-top: 10rpx; */
+	/* overflow: hidden; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 27px;
+	width: 30px;
+}
+.uni-btn-icon {
+	color: #000;
+	/* font-size: 54rpx; */
+	/* float: left; */
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+

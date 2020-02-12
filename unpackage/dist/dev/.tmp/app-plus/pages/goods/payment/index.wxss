@@ -1,0 +1,45 @@
+
+.margin-cell-group{
+	margin-bottom: 20rpx;
+}
+.cell-hd-title{
+	color: #999;
+}
+.payment-method .cell-item-hd{
+	min-width: 70rpx;
+}
+.payment-method .cell-hd-icon{
+	width: 70rpx;
+	height: 70rpx;
+}
+.payment-method .cell-item-bd{
+	border-left: 2rpx solid #F0F0F0;
+	padding-left: 30rpx;
+}
+.payment-method .cell-bd-text{
+	font-size: 28rpx;
+	color: #666;
+}
+.payment-method .address{
+	font-size: 24rpx;
+	color: #999;
+}
+.flex-item{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.flex-item .cell-item-ft{
+	position: relative;
+	top: 0;
+	-webkit-transform: translateY(0);
+	        transform: translateY(0);
+	right: 0;
+}
+

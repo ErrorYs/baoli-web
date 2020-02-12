@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "jihai-copyright": "/components/jihai-copyright/jihaiCopyright",
+    "jshop": "/components/jshop/jshop",
+    "uni-countdown": "/components/uni-countdown/uni-countdown",
+    "red-bag": "/components/red-bag/index"
+  }
+}

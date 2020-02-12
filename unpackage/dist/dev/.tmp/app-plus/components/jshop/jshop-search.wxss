@@ -1,0 +1,27 @@
+
+.search-input-p {
+	color: #888;
+}
+.square{
+	border-radius: 0;
+}
+.radius{
+	border-radius: 12rpx;
+}
+.search-fixed{
+	position: fixed;
+	top: 0;
+	/* background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, 0)); */
+	-webkit-transition: all .5s;
+	transition: all .5s;
+}
+/* .isOpacity {
+		background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, 0));
+		transition: all .5s;
+	}
+
+.isOpacity .search-input {
+	background-color: rgba(255, 255, 255, .5);
+	transition: all .5s;
+} */
+
